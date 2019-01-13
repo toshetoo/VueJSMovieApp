@@ -4,7 +4,7 @@ import Vue from 'vue';
 import VueBootstrap from 'bootstrap-vue';
 import VueMoment from 'vue-moment';
 
-// import App from './App';
+import App from './App';
 // import './assets/styles.scss';
 // import router from './router';
 // import store from './store/';
@@ -20,7 +20,7 @@ new Vue({
   // router,
   // store,
   components: {
-    // App,
+    App,
   },
   template: '<App/>',
 });
