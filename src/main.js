@@ -5,8 +5,8 @@ import VueBootstrap from 'bootstrap-vue';
 import VueMoment from 'vue-moment';
 
 import App from './App';
-// import './assets/styles.scss';
-// import router from './router';
+import './assets/styles.scss';
+import router from './routes/router';
 // import store from './store/';
 
 Vue.use(VueBootstrap);
@@ -17,7 +17,7 @@ Vue.config.productionTip = false;
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
-  // router,
+  router,
   // store,
   components: {
     App,
