@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
-    "start-db": "json-server --watch ./src/api/db.json",
+    "start-db": "json-server --watch ./src/api/db/db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
