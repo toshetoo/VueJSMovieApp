@@ -19,12 +19,10 @@
     },
     methods: {
       getDogs() {
-        console.log('before')
-        dogsService.getAllDogs().then(dogs => {
-          console.log(dogs);
+        dogsService.getAllDogs().then((dogs) => {
           this.dogs = dogs;
         });
-      }
-    }
+      },
+    },
   };
 </script>

@@ -7,4 +7,4 @@ export default {
   post(url, data) {
     return axios.post(url, data);
   },
-}
+};
