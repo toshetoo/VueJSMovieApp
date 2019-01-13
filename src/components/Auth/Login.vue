@@ -1,6 +1,6 @@
 <template>
-  <div class="container">
-    <div class="login-form-holder">
+  <div class="container h-100 justify-content-center d-flex">
+    <div class="login-form-holder justify-content-center align-items-center d-flex">
       <form>
         <div class="form-group">
           <label for="email">Email address</label>
