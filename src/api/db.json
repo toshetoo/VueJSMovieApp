@@ -1,0 +1,708 @@
+{
+  "cats": [
+    {
+      "guid": "5988fce2-ae18-4591-bb99-6404d3acb2ac",
+      "isSold": true,
+      "picture": "http://random.cat/view/44",
+      "age": 22,
+      "eyeColor": "green",
+      "name": "Marjorie Cooley",
+      "gender": "female",
+      "about": "Dolore nostrud duis cillum esse. Cupidatat aliqua dolor exercitation proident amet anim laborum labore dolor ut sit reprehenderit. Proident sunt veniam cillum est in amet veniam incididunt adipisicing qui duis. Voluptate esse enim consectetur esse est occaecat tempor.\r\n"
+    },
+    {
+      "guid": "6c16da1c-bd10-4152-833d-32f52bd9e767",
+      "isSold": true,
+      "picture": "http://random.cat/view/17",
+      "age": 21,
+      "eyeColor": "green",
+      "name": "Britney Delacruz",
+      "gender": "female",
+      "about": "Pariatur cupidatat aliquip amet veniam cillum elit elit. Id voluptate dolore veniam aliqua consequat cillum amet id sint eiusmod magna. Quis do exercitation dolore consequat nulla minim excepteur eiusmod laboris in.\r\n"
+    },
+    {
+      "guid": "cce3b30a-ce56-4e9b-80a5-718369702785",
+      "isSold": true,
+      "picture": "http://random.cat/view/20",
+      "age": 40,
+      "eyeColor": "green",
+      "name": "Randolph Simmons",
+      "gender": "male",
+      "about": "Esse consectetur est nisi aliquip magna officia irure tempor fugiat incididunt nostrud amet ea. Pariatur nostrud laboris culpa duis qui est sunt sit aliquip Lorem veniam. Ea cupidatat laboris non ullamco labore consectetur laborum ea sunt mollit.\r\n"
+    },
+    {
+      "guid": "9e1fb05e-95b9-4ff2-badb-406c6ec08f07",
+      "isSold": true,
+      "picture": "http://random.cat/view/2",
+      "age": 37,
+      "eyeColor": "brown",
+      "name": "Lupe Santos",
+      "gender": "female",
+      "about": "Id consectetur cupidatat consectetur id. Exercitation consectetur ut velit esse officia id mollit do ut aliquip laboris. Quis consectetur aliqua quis cupidatat consequat esse ipsum. Do occaecat Lorem id commodo sint qui elit elit. Sint eiusmod sit ipsum quis aliqua. Anim id ea ea sunt labore velit ut ex in fugiat.\r\n"
+    },
+    {
+      "guid": "68069c8e-01c9-489f-bd74-a0e9243c8ca7",
+      "isSold": false,
+      "picture": "http://random.cat/view/49",
+      "age": 22,
+      "eyeColor": "green",
+      "name": "Meghan Cannon",
+      "gender": "female",
+      "about": "Incididunt velit irure sint do ut cupidatat esse occaecat. Occaecat tempor excepteur non qui commodo commodo ut ipsum laborum aute tempor. Dolore magna mollit anim laboris labore enim commodo eiusmod in aliquip eiusmod excepteur occaecat occaecat. Do pariatur aute cillum ipsum consectetur ea enim duis pariatur fugiat qui eiusmod. Sunt mollit ut Lorem et dolor consectetur adipisicing id.\r\n"
+    },
+    {
+      "guid": "03e5b019-0cb3-44a9-af1f-3602a5402c58",
+      "isSold": false,
+      "picture": "http://random.cat/view/16",
+      "age": 32,
+      "eyeColor": "blue",
+      "name": "Pate Coffey",
+      "gender": "male",
+      "about": "Id quis ut tempor quis. Sit eiusmod eiusmod ut duis occaecat irure nisi nulla veniam. Sint sunt pariatur incididunt velit aliquip cupidatat laborum deserunt ut aute ullamco nisi magna amet. Eu excepteur eu velit excepteur duis anim adipisicing nostrud.\r\n"
+    },
+    {
+      "guid": "a44da963-59f5-4018-9ba4-c5e5ce216f02",
+      "isSold": false,
+      "picture": "http://random.cat/view/8",
+      "age": 31,
+      "eyeColor": "brown",
+      "name": "Pollard Mullen",
+      "gender": "male",
+      "about": "Nisi amet minim in laboris nisi nostrud. Ad ut magna occaecat quis in ut velit nostrud anim. Lorem commodo eu dolor dolore qui id. Minim dolore aliqua minim do exercitation duis est Lorem dolor nulla laboris mollit. Non esse commodo exercitation ea ex ut minim in sunt anim. Non nisi dolore duis nostrud eiusmod dolore ad labore proident irure sunt.\r\n"
+    },
+    {
+      "guid": "a84e564c-0571-4b2a-95aa-77acfd283000",
+      "isSold": false,
+      "picture": "http://random.cat/view/52",
+      "age": 39,
+      "eyeColor": "green",
+      "name": "Williams Spencer",
+      "gender": "male",
+      "about": "Enim labore ex officia adipisicing. Quis veniam nisi esse cupidatat esse in. Proident mollit elit pariatur qui id ex proident exercitation culpa dolor.\r\n"
+    },
+    {
+      "guid": "218dc5db-6e08-455b-b80c-3ca3b9494f03",
+      "isSold": true,
+      "picture": "http://random.cat/view/36",
+      "age": 25,
+      "eyeColor": "brown",
+      "name": "Rachelle Bender",
+      "gender": "female",
+      "about": "Ea officia est fugiat sunt mollit quis commodo. Aute incididunt eiusmod et ipsum anim fugiat minim tempor magna nisi proident in nulla dolor. Aliqua anim elit duis laborum aute.\r\n"
+    },
+    {
+      "guid": "ad9a91f8-c032-49e7-8700-7f9650982e39",
+      "isSold": true,
+      "picture": "http://random.cat/view/40",
+      "age": 22,
+      "eyeColor": "green",
+      "name": "Meadows Horton",
+      "gender": "male",
+      "about": "Adipisicing laboris ullamco qui eu id in dolor veniam incididunt nisi officia amet dolore aliquip. Consequat aute anim non deserunt aliquip ullamco aute magna in sint irure. Ex id id aliquip sint qui velit cupidatat ut consequat ullamco Lorem consectetur. Sit commodo pariatur duis cupidatat ipsum sit Lorem esse nisi reprehenderit culpa. Pariatur duis proident labore sunt eu non aliquip voluptate ea cupidatat velit. Ea aute minim est velit quis occaecat aute ut officia commodo velit minim eu anim.\r\n"
+    },
+    {
+      "guid": "5789eee8-112c-4b4f-b239-6effc846cc44",
+      "isSold": false,
+      "picture": "http://random.cat/view/1",
+      "age": 39,
+      "eyeColor": "blue",
+      "name": "Gonzales Dudley",
+      "gender": "male",
+      "about": "Quis eu do proident magna. Ipsum laboris officia deserunt esse minim veniam reprehenderit ex voluptate aute. Magna et labore Lorem id proident amet pariatur labore nulla.\r\n"
+    },
+    {
+      "guid": "d46ab3d8-6b24-4133-a3da-0cc333bd5cf4",
+      "isSold": true,
+      "picture": "http://random.cat/view/28",
+      "age": 29,
+      "eyeColor": "blue",
+      "name": "Kerry Mueller",
+      "gender": "female",
+      "about": "Adipisicing proident enim fugiat cillum et et excepteur commodo elit elit. Esse sint pariatur laborum labore aliqua. Consectetur Lorem cillum sunt ad do irure eu.\r\n"
+    },
+    {
+      "guid": "7587a2a6-1ad9-4b15-8902-b5951d44017e",
+      "isSold": true,
+      "picture": "http://random.cat/view/9",
+      "age": 36,
+      "eyeColor": "brown",
+      "name": "Lorene Barber",
+      "gender": "female",
+      "about": "Elit nostrud aliqua fugiat irure amet consequat do. Magna in voluptate sunt cupidatat minim. Deserunt eiusmod consequat ut proident in officia officia esse velit fugiat tempor anim tempor. Deserunt amet dolore quis velit ex exercitation excepteur ipsum velit aliqua mollit.\r\n"
+    },
+    {
+      "guid": "503cec58-94e5-43cc-805c-5f2986323b93",
+      "isSold": false,
+      "picture": "http://random.cat/view/2",
+      "age": 24,
+      "eyeColor": "green",
+      "name": "Sanders Livingston",
+      "gender": "male",
+      "about": "Ullamco deserunt fugiat labore deserunt consectetur adipisicing. Mollit eiusmod nulla ex eu ad ex sint eiusmod nulla consequat. Cillum excepteur laborum nisi ad labore est velit elit do.\r\n"
+    },
+    {
+      "guid": "488e1809-dc46-495b-9764-630f6f089d1f",
+      "isSold": true,
+      "picture": "http://random.cat/view/56",
+      "age": 34,
+      "eyeColor": "brown",
+      "name": "Patti Cook",
+      "gender": "female",
+      "about": "Cillum qui ut dolore fugiat non nulla sit elit eu excepteur in laboris in. Velit enim dolore Lorem pariatur sunt ipsum consectetur qui sint nostrud esse nulla est. Et sint esse incididunt minim voluptate amet enim ut non exercitation. Aute quis minim esse ea et enim ea incididunt commodo sit quis amet labore commodo. Est exercitation ex enim Lorem anim pariatur labore dolore ad velit aute veniam. Aliquip est cupidatat amet et non. Ad eiusmod veniam non exercitation et consectetur esse eu minim occaecat culpa esse est anim.\r\n"
+    },
+    {
+      "guid": "fe90c22c-fd15-4c6b-81e4-53a5c89b65f4",
+      "isSold": true,
+      "picture": "http://random.cat/view/27",
+      "age": 37,
+      "eyeColor": "blue",
+      "name": "Dionne Frederick",
+      "gender": "female",
+      "about": "Sunt officia duis occaecat culpa sit adipisicing. Et mollit do voluptate consectetur irure esse enim nulla consectetur qui sunt id. Sint magna non cupidatat id amet sunt aute quis dolore ipsum nostrud. Reprehenderit eu nostrud deserunt fugiat dolore ut officia. Sit exercitation voluptate occaecat mollit incididunt minim cillum adipisicing sunt quis. Nostrud pariatur ad pariatur enim eu culpa aute. Ex in exercitation incididunt Lorem est duis cillum est aliquip consectetur.\r\n"
+    },
+    {
+      "guid": "ff6bfea5-83b1-4a50-ae50-997fae0f6b71",
+      "isSold": false,
+      "picture": "http://random.cat/view/19",
+      "age": 20,
+      "eyeColor": "brown",
+      "name": "Dorsey Boyer",
+      "gender": "male",
+      "about": "Adipisicing commodo laborum irure nulla ea nisi deserunt laborum est in aliquip ad. Nostrud commodo mollit dolore ut ipsum ex do qui velit ex duis ex commodo. Ullamco aute ex voluptate labore irure non officia Lorem minim laborum voluptate deserunt tempor minim. Aliqua fugiat aute aliquip ex. Lorem qui et ex esse adipisicing duis Lorem labore dolore nostrud commodo.\r\n"
+    },
+    {
+      "guid": "8602e2ee-0c5e-40ae-9a5c-b4a99a9d89e2",
+      "isSold": true,
+      "picture": "http://random.cat/view/52",
+      "age": 39,
+      "eyeColor": "blue",
+      "name": "Dorothea Robertson",
+      "gender": "female",
+      "about": "Fugiat incididunt amet ullamco nostrud sunt labore. Aliqua aliquip amet cillum voluptate ad laborum nulla consectetur fugiat. Cupidatat laborum dolor tempor anim amet fugiat fugiat dolore. Incididunt culpa elit dolore culpa quis voluptate quis id excepteur.\r\n"
+    },
+    {
+      "guid": "3bd0ac4f-3b53-42be-9f25-c879a41e2af7",
+      "isSold": false,
+      "picture": "http://random.cat/view/3",
+      "age": 37,
+      "eyeColor": "green",
+      "name": "Santos Mcknight",
+      "gender": "male",
+      "about": "Culpa et quis irure nisi culpa sunt pariatur esse occaecat incididunt anim. Qui consequat in ex elit elit deserunt. Adipisicing commodo ut eu laborum minim duis deserunt deserunt quis Lorem veniam occaecat. Eu ipsum incididunt tempor labore amet. Id id in sunt est est sint exercitation velit mollit duis anim. Sit aliquip elit in aute aliqua veniam qui nisi.\r\n"
+    },
+    {
+      "guid": "6664a67c-58e1-48b4-99af-f1a8455b417a",
+      "isSold": true,
+      "picture": "http://random.cat/view/31",
+      "age": 39,
+      "eyeColor": "brown",
+      "name": "Haley Henderson",
+      "gender": "male",
+      "about": "Esse consequat est occaecat commodo tempor pariatur exercitation proident sint labore velit. Incididunt nisi exercitation occaecat reprehenderit do. Pariatur mollit eu ipsum mollit Lorem in laboris. Esse ut deserunt adipisicing ullamco eiusmod officia aute voluptate sunt. Non irure excepteur officia ullamco culpa quis proident cupidatat aute deserunt nisi consequat proident commodo.\r\n"
+    },
+    {
+      "guid": "287542a3-de7f-4504-a34e-c96833cb2888",
+      "isSold": true,
+      "picture": "http://random.cat/view/60",
+      "age": 31,
+      "eyeColor": "brown",
+      "name": "Marilyn Franks",
+      "gender": "female",
+      "about": "Adipisicing cupidatat irure laboris aliquip reprehenderit amet ipsum quis proident aliqua. Nisi id deserunt consectetur exercitation proident excepteur nulla dolor. Sit cillum in adipisicing sunt in consequat reprehenderit reprehenderit est minim dolor mollit. Nisi id et minim excepteur mollit consequat proident et id ex velit consectetur incididunt. Ex id ad ea eiusmod cillum. Esse nostrud reprehenderit incididunt deserunt in commodo irure irure ea cupidatat qui aute labore.\r\n"
+    },
+    {
+      "guid": "314f8125-c4e8-499f-bc40-2ff893c5773f",
+      "isSold": true,
+      "picture": "http://random.cat/view/33",
+      "age": 22,
+      "eyeColor": "blue",
+      "name": "Bethany Stanton",
+      "gender": "female",
+      "about": "Esse consequat officia irure dolore ex adipisicing qui ex eiusmod ea duis laboris nisi. Sunt cillum occaecat magna labore nulla laborum officia est et. Aute velit ut incididunt eu enim consequat dolore exercitation cillum exercitation non dolore cupidatat velit.\r\n"
+    },
+    {
+      "guid": "b5f9a870-9d2c-40a2-bd25-2ff1fe5e79d3",
+      "isSold": true,
+      "picture": "http://random.cat/view/42",
+      "age": 34,
+      "eyeColor": "blue",
+      "name": "Carissa Hatfield",
+      "gender": "female",
+      "about": "Incididunt eu mollit id labore irure Lorem voluptate. Sunt ullamco nulla aliquip ea non tempor magna et veniam elit voluptate deserunt laborum. Laborum eu excepteur Lorem ex mollit eiusmod reprehenderit adipisicing consectetur reprehenderit culpa amet cupidatat. Consequat veniam quis laboris ipsum pariatur mollit ex sint ullamco.\r\n"
+    }
+  ],
+  "dogs": [
+    {
+      "guid": "384d7e62-3f7b-4b7f-aa5d-5d05e31f6fd6",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 28,
+      "eyeColor": "brown",
+      "name": "Haley",
+      "gender": "male",
+      "about": "Tempor consequat est minim proident est esse nulla enim magna nostrud dolor eiusmod labore ut. Proident occaecat nostrud esse adipisicing. Cillum non culpa voluptate proident et dolore enim aute aliquip officia incididunt exercitation esse. Sunt officia sint reprehenderit fugiat laborum occaecat nostrud pariatur ipsum ex. Cupidatat dolor deserunt officia cupidatat officia labore et cillum.\r\n"
+    },
+    {
+      "guid": "9f2f6173-943b-41c6-8df0-b0e48d4ff638",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 27,
+      "eyeColor": "green",
+      "name": "Wyatt",
+      "gender": "male",
+      "about": "Laboris aliqua ex sunt laborum est velit incididunt enim cillum sit. Sit ullamco in cillum culpa aliqua excepteur aliquip nostrud. Consectetur ipsum occaecat tempor cupidatat. Aliqua in aute duis minim exercitation.\r\n"
+    },
+    {
+      "guid": "192f0453-00a7-42df-af87-72514693fb25",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 33,
+      "eyeColor": "blue",
+      "name": "Berg",
+      "gender": "male",
+      "about": "Mollit do aute eu ullamco incididunt exercitation adipisicing tempor esse labore. Quis reprehenderit et culpa exercitation cillum occaecat veniam ullamco eiusmod incididunt voluptate consectetur. Voluptate minim est sint commodo ullamco voluptate.\r\n"
+    },
+    {
+      "guid": "916e39d7-07df-45ee-973b-1927236a0d1f",
+      "isSold": false,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 26,
+      "eyeColor": "blue",
+      "name": "Zimmerman",
+      "gender": "male",
+      "about": "Consequat velit do officia anim tempor laboris ullamco deserunt. Sunt duis cupidatat dolore sunt veniam commodo tempor culpa. Do incididunt esse dolore nisi ut officia adipisicing cupidatat consectetur consequat. Labore cupidatat quis cupidatat commodo. Pariatur non ex labore magna adipisicing sunt laborum sit velit reprehenderit cillum anim ipsum. Consequat ad aute ut minim amet fugiat Lorem et.\r\n"
+    },
+    {
+      "guid": "ba488238-0769-417e-ad7b-946d2aa87a16",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 30,
+      "eyeColor": "brown",
+      "name": "Tisha",
+      "gender": "female",
+      "about": "Irure exercitation sit adipisicing deserunt ad ullamco nulla veniam ad adipisicing incididunt consequat. Ex velit enim enim sint magna. Sit qui sunt fugiat culpa adipisicing ipsum anim dolor Lorem dolore officia laborum. Veniam nostrud Lorem laborum nisi commodo aliquip pariatur consequat.\r\n"
+    },
+    {
+      "guid": "f0a71a94-3262-415c-b8a2-441a9280284b",
+      "isSold": false,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 31,
+      "eyeColor": "blue",
+      "name": "Nadia",
+      "gender": "female",
+      "about": "Nisi aliquip adipisicing sint non veniam non ut amet occaecat. Culpa adipisicing ex dolor id Lorem culpa esse adipisicing occaecat qui velit velit amet. Non officia amet tempor tempor exercitation aliqua nostrud ex laborum ex incididunt sit.\r\n"
+    },
+    {
+      "guid": "eefe757a-227e-4c71-b220-84c3042117fe",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 21,
+      "eyeColor": "brown",
+      "name": "Cooke",
+      "gender": "male",
+      "about": "Labore culpa veniam voluptate commodo ex. Aute aliqua nostrud voluptate pariatur aliquip occaecat non irure veniam amet cupidatat deserunt. Incididunt magna dolor magna labore consequat amet ullamco sunt esse veniam proident ex. Elit fugiat culpa nisi reprehenderit adipisicing irure consectetur cupidatat ullamco ea elit. Culpa labore minim cupidatat nulla irure elit enim. Veniam adipisicing excepteur enim cillum sunt do. Officia incididunt nulla nostrud amet pariatur exercitation amet incididunt enim eu enim qui adipisicing.\r\n"
+    },
+    {
+      "guid": "702e4bc8-713e-4ddc-8a12-28def7d88286",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 31,
+      "eyeColor": "brown",
+      "name": "Duran",
+      "gender": "male",
+      "about": "Eu proident velit reprehenderit sunt ut veniam proident Lorem aute ipsum esse laboris aliquip id. Deserunt amet eu excepteur amet. Lorem nulla culpa officia nulla culpa qui pariatur id consectetur ea ipsum et ad minim. Voluptate ad id qui consectetur pariatur fugiat magna exercitation nostrud labore sit est minim ad.\r\n"
+    },
+    {
+      "guid": "329b6709-ef07-4198-81d0-8357d9185736",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 38,
+      "eyeColor": "green",
+      "name": "Pennington",
+      "gender": "male",
+      "about": "Dolore sunt esse reprehenderit laborum fugiat dolore labore nulla elit. Nisi ad ipsum aliquip excepteur occaecat sunt qui. Minim adipisicing proident eu do. Amet ullamco occaecat enim commodo sint consequat Lorem sit eu aliqua exercitation nostrud ipsum. Dolor eu dolore laborum ex elit ullamco exercitation sunt sint incididunt velit anim reprehenderit consectetur. Aliqua fugiat ipsum enim sint ea fugiat nostrud commodo incididunt.\r\n"
+    },
+    {
+      "guid": "35cfeacf-85f3-4188-80ac-d36bdd8aef14",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 23,
+      "eyeColor": "brown",
+      "name": "Lana",
+      "gender": "female",
+      "about": "Sunt consequat magna amet quis duis esse exercitation officia elit. Incididunt eu est ex proident. Eiusmod officia et est officia. Anim minim voluptate magna magna ipsum amet nisi culpa incididunt minim Lorem dolore sit occaecat.\r\n"
+    },
+    {
+      "guid": "9a32d0c5-4908-415c-bcad-0f98cfae4f37",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 22,
+      "eyeColor": "green",
+      "name": "Susanna",
+      "gender": "female",
+      "about": "Ut magna nostrud minim irure dolore irure aute. Aliqua incididunt veniam sit non cillum aute aliqua. Sit aliquip eu consequat ut pariatur exercitation exercitation magna velit ea ad ipsum. Velit aute exercitation eu aliqua adipisicing cupidatat do anim cupidatat qui. Irure minim aliqua magna elit nostrud Lorem duis adipisicing cupidatat reprehenderit. Tempor aliquip aliqua commodo deserunt proident magna Lorem non mollit pariatur sint. Tempor pariatur consequat elit veniam adipisicing in aute.\r\n"
+    },
+    {
+      "guid": "5f9b1782-e825-498b-a2fe-ce46695a6564",
+      "isSold": false,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 38,
+      "eyeColor": "brown",
+      "name": "Burton",
+      "gender": "male",
+      "about": "Dolore ea sunt eu irure mollit laboris tempor nulla incididunt dolore veniam consequat minim. Aliquip veniam commodo anim magna cillum irure cillum esse elit aliquip duis proident id. Sunt eiusmod amet magna officia nostrud non nisi. Reprehenderit amet ad cillum reprehenderit ullamco enim nisi minim anim minim non enim reprehenderit occaecat. Nostrud et aute eiusmod ad deserunt anim minim tempor eiusmod magna ex enim. Esse elit id aute et nisi deserunt anim in cillum occaecat non Lorem. Lorem quis anim magna do id nisi dolor ex.\r\n"
+    },
+    {
+      "guid": "852da05c-18ec-4e37-a2ef-c93b76f5835d",
+      "isSold": false,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 37,
+      "eyeColor": "brown",
+      "name": "Cotton",
+      "gender": "male",
+      "about": "Exercitation anim enim dolor do duis. Nisi ut irure nulla cillum nostrud duis incididunt consectetur laborum. Esse et esse cillum sit minim pariatur eiusmod officia eu proident dolor. Laborum nostrud aliqua duis ea sint nulla laboris.\r\n"
+    },
+    {
+      "guid": "f16c6b4c-329b-4540-83c0-b873d028b6fb",
+      "isSold": false,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 28,
+      "eyeColor": "brown",
+      "name": "Carlene",
+      "gender": "female",
+      "about": "Do est sit anim qui incididunt. Voluptate ullamco eiusmod esse consequat voluptate pariatur. Proident commodo minim voluptate esse laborum nisi. Commodo eiusmod excepteur exercitation aliquip.\r\n"
+    },
+    {
+      "guid": "5ed4c77a-8703-4e78-a47a-21216c61a4f9",
+      "isSold": false,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 34,
+      "eyeColor": "blue",
+      "name": "Becky",
+      "gender": "female",
+      "about": "Dolor enim in deserunt duis dolore irure. Consectetur dolor amet commodo aute cillum qui ullamco ipsum occaecat dolore dolore incididunt quis. Mollit ea fugiat nulla reprehenderit cillum Lorem proident ut labore ex. Culpa officia commodo elit proident reprehenderit anim consequat aliquip officia in aliqua. Excepteur sit nostrud dolore veniam minim aliqua consectetur in aliqua aliqua. Aute eu labore commodo ea irure laborum aliquip dolore pariatur magna aliquip sit irure.\r\n"
+    },
+    {
+      "guid": "b198bd96-2ffc-48ca-9bd3-f8513ff861e0",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 30,
+      "eyeColor": "brown",
+      "name": "Alexander",
+      "gender": "male",
+      "about": "Nostrud pariatur do reprehenderit cupidatat reprehenderit pariatur reprehenderit qui velit. Consequat adipisicing occaecat velit non enim culpa ut. Nostrud exercitation laboris ad do eu cillum nulla qui ea tempor commodo. Reprehenderit qui labore aliqua sunt aliquip tempor anim officia ea officia. Sunt aliquip ipsum fugiat proident anim. Ex mollit incididunt ut qui magna exercitation sunt minim reprehenderit excepteur duis id mollit. Ullamco eiusmod adipisicing excepteur tempor mollit.\r\n"
+    },
+    {
+      "guid": "88e42aa7-09b6-499c-ba1f-182f95b80b4e",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 36,
+      "eyeColor": "brown",
+      "name": "Rhoda",
+      "gender": "female",
+      "about": "Ea qui reprehenderit officia in ad qui anim. Excepteur deserunt laborum nostrud proident magna labore pariatur fugiat. Anim sit ullamco cupidatat enim aliqua sunt minim pariatur amet sunt pariatur exercitation nulla. Dolore Lorem enim occaecat consequat consectetur.\r\n"
+    },
+    {
+      "guid": "18e2fa36-5e3c-4b96-8627-5fba944edc66",
+      "isSold": false,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 22,
+      "eyeColor": "green",
+      "name": "Fern",
+      "gender": "female",
+      "about": "Amet fugiat voluptate exercitation ex. Dolore mollit ullamco ex officia magna cillum eiusmod culpa do culpa ea reprehenderit. Est irure deserunt consectetur fugiat ullamco irure nulla cillum dolore nostrud. Nostrud cillum occaecat exercitation tempor eiusmod Lorem non mollit veniam exercitation exercitation aute. Id Lorem dolor ea officia pariatur ad.\r\n"
+    },
+    {
+      "guid": "05b7c855-710b-48ab-a45b-86b218097aa4",
+      "isSold": false,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 26,
+      "eyeColor": "blue",
+      "name": "Christensen",
+      "gender": "male",
+      "about": "Excepteur incididunt qui reprehenderit occaecat laboris ipsum ea enim tempor aliqua duis ipsum tempor duis. Consectetur ullamco dolore laborum non tempor pariatur magna aute est. Consequat mollit nostrud officia minim pariatur ex magna aute cupidatat id enim sint duis. Incididunt magna anim ex commodo nulla mollit officia. Velit esse voluptate sit dolore esse exercitation in aute amet sint irure.\r\n"
+    },
+    {
+      "guid": "3ff243f0-8c3d-4b5d-aed9-82ab75889d59",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 28,
+      "eyeColor": "brown",
+      "name": "Kennedy",
+      "gender": "male",
+      "about": "In excepteur dolor aliqua non. Nulla ad sit aliquip in proident quis. Duis commodo culpa irure fugiat incididunt veniam irure adipisicing eiusmod. Commodo enim enim velit ad aliqua velit proident.\r\n"
+    },
+    {
+      "guid": "6d594fb5-5364-40fd-b159-cafce8745102",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 26,
+      "eyeColor": "blue",
+      "name": "Dejesus",
+      "gender": "male",
+      "about": "Quis esse enim do id nostrud occaecat velit ullamco do nulla veniam. Deserunt laboris velit nostrud tempor ipsum magna mollit cillum ex. Sint aliqua adipisicing ullamco fugiat sit aliqua consectetur nulla ex aliqua. Mollit ipsum eiusmod enim labore tempor voluptate. Labore cillum irure magna aliquip consequat fugiat aliquip magna Lorem.\r\n"
+    },
+    {
+      "guid": "50102d26-02e9-4035-8140-236cf6fa52b7",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 27,
+      "eyeColor": "blue",
+      "name": "Walker",
+      "gender": "male",
+      "about": "Deserunt sunt qui dolore et adipisicing aute ut mollit reprehenderit. In id qui sint eu eiusmod laborum fugiat do qui culpa laboris et dolor dolor. Nostrud reprehenderit esse nulla qui sit deserunt aliquip tempor irure duis sit occaecat labore.\r\n"
+    },
+    {
+      "guid": "b8de08bf-f135-4493-a4a7-a65838c14b7e",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 25,
+      "eyeColor": "brown",
+      "name": "Concetta",
+      "gender": "female",
+      "about": "Consequat eu anim exercitation exercitation id amet consequat eiusmod do. Officia eiusmod eiusmod voluptate minim eiusmod dolore duis. Commodo commodo velit anim fugiat aliqua. Amet excepteur laboris consectetur id anim. Incididunt nulla veniam reprehenderit ipsum labore duis reprehenderit elit laborum irure nisi cupidatat incididunt.\r\n"
+    },
+    {
+      "guid": "1459435c-e219-4e9e-9ac9-453ae12778fb",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 33,
+      "eyeColor": "blue",
+      "name": "Clayton",
+      "gender": "male",
+      "about": "Dolore sunt pariatur aute culpa deserunt pariatur cillum. Dolore aliqua aute laborum est sint magna deserunt Lorem quis occaecat. Nisi Lorem mollit mollit est. Occaecat sit anim laborum nulla do mollit et reprehenderit. Enim mollit non in occaecat. Ex non cupidatat culpa anim aliquip labore ex pariatur. Mollit ea veniam elit ullamco do ad velit aliquip eu proident voluptate elit cillum officia.\r\n"
+    },
+    {
+      "guid": "1a1df065-e9dd-4adf-9421-0007e1b9e7d9",
+      "isSold": false,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 33,
+      "eyeColor": "brown",
+      "name": "Wiggins",
+      "gender": "male",
+      "about": "Aute amet Lorem tempor irure ut eiusmod eiusmod officia aliquip aliqua. Et irure amet dolor nostrud. Culpa consequat id ad sit incididunt do tempor irure qui in aliquip. Ex officia cillum laborum eu nulla elit ullamco laboris tempor occaecat qui nulla irure. Cupidatat quis deserunt ad adipisicing irure. Ut cupidatat nulla anim mollit laboris incididunt id. Minim consectetur consequat enim sint in ullamco culpa voluptate labore pariatur voluptate est.\r\n"
+    },
+    {
+      "guid": "e8e20199-27bb-4f1c-a3bc-7698da919c41",
+      "isSold": true,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 35,
+      "eyeColor": "green",
+      "name": "Shepherd",
+      "gender": "male",
+      "about": "Commodo elit ad sunt commodo elit nulla proident exercitation elit ex ad pariatur. Ea sunt ullamco elit ea. Fugiat labore consectetur ea nisi anim laborum ex ut sunt esse adipisicing. Eu enim nostrud veniam aliqua do ea sunt pariatur consectetur consequat reprehenderit labore ad minim. Ullamco dolor dolor officia anim anim Lorem qui qui quis duis laborum ad aliqua cupidatat.\r\n"
+    },
+    {
+      "guid": "0ef885dd-bea7-48e3-9f13-b02725b50daf",
+      "isSold": false,
+      "picture": "https://dog.ceo/api/breeds/image/random",
+      "age": 30,
+      "eyeColor": "green",
+      "name": "Bates",
+      "gender": "male",
+      "about": "Id tempor enim reprehenderit nostrud velit quis. Esse incididunt cillum amet aliquip est consequat. Nulla enim et amet veniam proident duis pariatur enim ullamco eu sunt. In minim occaecat Lorem tempor do reprehenderit magna tempor mollit minim consequat.\r\n"
+    }
+  ],
+  "birds": [
+    {
+      "guid": "6cdc2fa1-2f58-4954-9999-a5fc0a404e16",
+      "isSold": false,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 27,
+      "eyeColor": "green",
+      "name": "Francis",
+      "gender": "male",
+      "about": "Reprehenderit cillum laboris tempor in incididunt adipisicing sunt dolor qui ullamco proident dolore officia. Anim dolor dolore elit exercitation laboris dolor velit dolor. Mollit adipisicing sint ullamco velit proident sunt esse minim. Mollit sit velit non Lorem minim. Sint qui exercitation commodo ut aliquip laborum cupidatat ut nulla ad aliquip sit. Cillum sunt dolore enim veniam occaecat et dolor ex pariatur nulla irure laboris exercitation est. Voluptate esse quis sint incididunt nostrud ipsum laboris aliqua.\r\n"
+    },
+    {
+      "guid": "b3eab069-2eee-460e-840d-0c164f7772fa",
+      "isSold": false,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 36,
+      "eyeColor": "blue",
+      "name": "Madeleine",
+      "gender": "female",
+      "about": "Excepteur commodo sint laboris ad. Exercitation tempor non magna proident elit excepteur ex culpa. Cillum culpa dolore exercitation deserunt eu voluptate do amet culpa aliquip esse reprehenderit officia. Ad eiusmod aute nisi cillum laborum elit eiusmod duis aute nostrud. Anim cupidatat dolor consectetur irure mollit.\r\n"
+    },
+    {
+      "guid": "d69094ed-961a-47f9-9336-ce57d381f6c7",
+      "isSold": false,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 31,
+      "eyeColor": "brown",
+      "name": "Anna",
+      "gender": "female",
+      "about": "Eu mollit laborum id consequat consectetur consequat. Eiusmod tempor ex enim sunt ex. Nisi deserunt fugiat occaecat amet minim nulla elit esse voluptate nulla nostrud ullamco. Anim veniam veniam dolore eu cillum nulla officia reprehenderit velit mollit. Id pariatur eiusmod consectetur incididunt irure proident adipisicing ex ea et fugiat sit proident.\r\n"
+    },
+    {
+      "guid": "61b1c7d4-043b-4ec0-96ee-9003d985cd1d",
+      "isSold": true,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 32,
+      "eyeColor": "blue",
+      "name": "Wilkinson",
+      "gender": "male",
+      "about": "Officia culpa reprehenderit culpa incididunt minim dolore cillum mollit. Ut exercitation proident voluptate duis fugiat anim culpa incididunt esse et non fugiat enim dolore. Eiusmod magna ad occaecat dolore fugiat ad non enim. Cillum ullamco excepteur elit fugiat dolore aute est quis et culpa. Do aliquip nostrud elit velit voluptate nisi tempor eiusmod cillum minim. Exercitation consectetur ut esse ipsum sint officia officia exercitation deserunt. Officia anim aliquip eu laboris nisi.\r\n"
+    },
+    {
+      "guid": "a1d7fe3f-4c10-4ed7-8a83-a31601b52f3d",
+      "isSold": false,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 20,
+      "eyeColor": "brown",
+      "name": "Cathryn",
+      "gender": "female",
+      "about": "Officia officia voluptate consectetur sit sit et aliquip sit. Dolore ex sit amet aliquip anim magna tempor aliquip officia dolor est excepteur est ipsum. Magna irure tempor adipisicing ipsum minim veniam ad occaecat nulla tempor pariatur culpa. Minim laboris occaecat esse irure. Do ipsum qui eu cillum qui magna officia velit non dolore ipsum eu. Adipisicing ea anim ex labore elit do.\r\n"
+    },
+    {
+      "guid": "bb1c1480-028f-4b7e-8ec3-ddd6d3638a96",
+      "isSold": true,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 24,
+      "eyeColor": "green",
+      "name": "Wright",
+      "gender": "male",
+      "about": "Aliqua proident tempor anim dolor sit mollit sunt dolor reprehenderit ut deserunt irure eiusmod non. Consectetur nulla ea incididunt ut ad eu sunt. Ullamco qui qui tempor voluptate laboris tempor amet proident. Ullamco laboris exercitation Lorem laborum. In dolor ullamco est officia non amet eiusmod in occaecat ipsum eiusmod. Ipsum pariatur eu proident pariatur cillum sunt culpa commodo.\r\n"
+    },
+    {
+      "guid": "d78899ec-bbdb-4fe6-a6e6-3d78cacf31eb",
+      "isSold": true,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 21,
+      "eyeColor": "green",
+      "name": "Madden",
+      "gender": "male",
+      "about": "Ad nisi mollit deserunt excepteur irure ipsum nulla minim cupidatat enim pariatur et sunt non. Magna deserunt laboris minim ut do et. Elit amet duis amet fugiat cupidatat incididunt tempor nulla voluptate elit amet officia id anim.\r\n"
+    },
+    {
+      "guid": "97ed2e2b-2ee7-460d-b359-26f5084091a4",
+      "isSold": false,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 32,
+      "eyeColor": "brown",
+      "name": "Jordan",
+      "gender": "female",
+      "about": "Ut dolor qui nisi fugiat nostrud ullamco aliqua sint reprehenderit sint. Non culpa eiusmod deserunt labore voluptate reprehenderit qui Lorem in ex eu cupidatat Lorem non. Non excepteur et ut quis. Ullamco reprehenderit voluptate reprehenderit sint do ut enim anim qui laboris esse labore. Nostrud cupidatat sunt officia cupidatat aliquip non culpa eiusmod laborum magna dolore sunt deserunt ullamco. In aliqua irure proident nisi aute velit esse in ut est elit.\r\n"
+    },
+    {
+      "guid": "9e493545-25cc-46bd-a4b8-33a15798e5a3",
+      "isSold": false,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 29,
+      "eyeColor": "green",
+      "name": "Sheppard",
+      "gender": "male",
+      "about": "Ullamco culpa nulla sunt incididunt laboris irure laboris ullamco commodo minim excepteur nisi quis nostrud. Aliquip ullamco amet ea aliqua ad veniam aute. Eu incididunt et non ad minim do minim enim ex est. Voluptate eiusmod nostrud esse amet do ullamco consequat eiusmod.\r\n"
+    },
+    {
+      "guid": "af21135c-7bb9-473f-b6c9-c982848993c5",
+      "isSold": false,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 39,
+      "eyeColor": "blue",
+      "name": "Gloria",
+      "gender": "female",
+      "about": "Officia qui ullamco eiusmod tempor tempor nostrud amet. Ea et enim sunt laboris eu nulla. Sunt labore nisi exercitation ea.\r\n"
+    },
+    {
+      "guid": "97a0511d-b468-44cb-96c6-449f133b12d0",
+      "isSold": true,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 25,
+      "eyeColor": "brown",
+      "name": "Hammond",
+      "gender": "male",
+      "about": "Occaecat duis incididunt aute irure aute adipisicing qui non esse aute. Magna dolor commodo incididunt aliquip esse eu. Minim consequat dolor quis Lorem amet nisi ut commodo est. Nulla laboris do voluptate et aliquip.\r\n"
+    },
+    {
+      "guid": "10a83d45-3efa-4fc0-8b03-61296a896c54",
+      "isSold": true,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 26,
+      "eyeColor": "brown",
+      "name": "Haley",
+      "gender": "male",
+      "about": "Culpa enim ullamco officia laborum voluptate dolore proident. Reprehenderit labore est cillum consequat aliqua sit laboris fugiat ea irure dolore dolore exercitation duis. Nostrud adipisicing velit consequat commodo laborum proident elit enim. Nisi et mollit sint do.\r\n"
+    },
+    {
+      "guid": "998fc916-7e10-43c5-a6c9-f588e71e3dae",
+      "isSold": false,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 32,
+      "eyeColor": "brown",
+      "name": "Rogers",
+      "gender": "male",
+      "about": "Veniam nostrud consectetur consequat dolor commodo irure sit consequat do sint ad non officia incididunt. Lorem ex consectetur dolore dolore. Fugiat nulla officia deserunt dolore laboris commodo dolor quis ipsum culpa nostrud. Sunt cupidatat quis culpa amet aliqua aliqua culpa aliquip. Adipisicing adipisicing et esse sunt ad occaecat velit enim sit officia nisi anim. Tempor excepteur occaecat et quis deserunt. Deserunt ullamco velit ipsum reprehenderit nulla.\r\n"
+    },
+    {
+      "guid": "cf86dd1a-c28b-4c34-b1a5-4403f9b96f44",
+      "isSold": true,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 28,
+      "eyeColor": "green",
+      "name": "Odessa",
+      "gender": "female",
+      "about": "Cupidatat dolor voluptate officia consectetur aute labore aliqua ut cupidatat et proident. Est minim ad do dolore enim consectetur aute esse non reprehenderit et qui. Aute velit elit culpa Lorem labore Lorem veniam eiusmod duis est sint velit irure veniam. Esse sunt reprehenderit ad cupidatat consectetur Lorem ad ad irure qui. Ea amet culpa ullamco sint sit est ea cillum non minim voluptate occaecat aliqua veniam. Nisi adipisicing sit elit consequat nisi nulla exercitation dolore aliqua enim sunt tempor anim.\r\n"
+    },
+    {
+      "guid": "389d43c8-783c-49c0-abfb-2513f20bd0bb",
+      "isSold": false,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 28,
+      "eyeColor": "blue",
+      "name": "Tricia",
+      "gender": "female",
+      "about": "Pariatur fugiat laboris et voluptate aliqua sunt officia laborum incididunt. Ullamco incididunt dolore reprehenderit incididunt ea ullamco sint labore magna do commodo fugiat reprehenderit. Ullamco elit dolore ullamco consectetur. Excepteur voluptate eiusmod exercitation officia est veniam ut in.\r\n"
+    },
+    {
+      "guid": "2628ccf0-7969-4e70-a5a1-bcf749a94e2e",
+      "isSold": true,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 33,
+      "eyeColor": "green",
+      "name": "Amie",
+      "gender": "female",
+      "about": "Incididunt proident aliquip ullamco voluptate labore. Eu tempor ex dolore exercitation id laborum commodo cupidatat mollit ut et et dolor ut. Lorem ex in quis consectetur aute eu exercitation. Eu voluptate ea sit aliqua officia.\r\n"
+    },
+    {
+      "guid": "788c8fc4-e726-4abd-bcfe-e9874cdec450",
+      "isSold": true,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 25,
+      "eyeColor": "blue",
+      "name": "Gracie",
+      "gender": "female",
+      "about": "Ut do ex veniam non qui. Laboris ea dolor laboris et. Aliqua elit et aute commodo eiusmod nostrud. Aute adipisicing pariatur amet consectetur sit magna quis in laboris. Sint nisi ullamco quis et ut dolor in.\r\n"
+    },
+    {
+      "guid": "4a8b15d0-7e4e-486a-aa1b-3201676300a6",
+      "isSold": true,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 33,
+      "eyeColor": "blue",
+      "name": "Lorraine",
+      "gender": "female",
+      "about": "Reprehenderit fugiat fugiat culpa est exercitation Lorem duis veniam dolore minim excepteur. Laboris tempor est do velit laborum id. Ipsum officia non ad ad do dolore eu mollit qui labore ex laboris ullamco.\r\n"
+    },
+    {
+      "guid": "852ffd15-5bd5-4a69-999c-0a8e493f896f",
+      "isSold": false,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 28,
+      "eyeColor": "green",
+      "name": "Crystal",
+      "gender": "female",
+      "about": "Et fugiat eiusmod irure magna duis. Aute quis ullamco incididunt ea adipisicing laborum exercitation voluptate nulla amet. Fugiat pariatur qui tempor ad quis non aliquip excepteur amet nostrud reprehenderit laborum. Sint labore laboris anim irure tempor elit fugiat voluptate deserunt nostrud non enim. In in fugiat pariatur et aliquip magna esse ullamco cillum ipsum cillum. Nostrud adipisicing mollit excepteur amet commodo adipisicing dolore deserunt consequat mollit esse esse. Incididunt labore do nulla anim aliqua commodo sint minim.\r\n"
+    },
+    {
+      "guid": "541904b9-8109-4bfc-bc9e-d1062c563a73",
+      "isSold": false,
+      "picture": "https://random.birb.pw/tweet/random",
+      "age": 27,
+      "eyeColor": "blue",
+      "name": "Mcdaniel",
+      "gender": "male",
+      "about": "Deserunt elit occaecat velit commodo ullamco adipisicing sit laboris labore. Eu nostrud consequat ullamco aliqua est pariatur deserunt eiusmod. Aute fugiat aute exercitation amet irure in. Do excepteur in qui mollit eu ex do sunt sit. Nisi anim officia magna laborum quis nisi velit velit minim. Ipsum mollit voluptate consectetur ullamco pariatur anim do anim nisi voluptate sint pariatur aliquip.\r\n"
+    }
+  ]
+}
