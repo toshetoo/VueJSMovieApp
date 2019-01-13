@@ -17,7 +17,7 @@
 
 <script>
   import dogsService from '../../api/services/dogsService';
-  import ListItem from './ListItem';
+  import ListItem from '../shared/ListItem';
 
   export default {
     name: 'DogsHolder',
