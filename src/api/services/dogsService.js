@@ -9,4 +9,8 @@ export default {
   getDogById(id) {
     return apiService.get(`${constants.baseUrl}/dogs/${id}`);
   },
+
+  getDogImage() {
+    return apiService.get('https://random.dog/woof.json');
+  },
 };

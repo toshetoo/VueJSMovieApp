@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <DataFilter @input="onSearch"></DataFilter>
     <ListItem v-for="(dog) in getDogs"
       :key="dog.guid"
       :guid="dog.guid"
@@ -18,32 +19,48 @@
 <script>
   import dogsService from '../../api/services/dogsService';
   import ListItem from '../shared/ListItem';
+  import DataFilter from '../shared/DataFilter';
 
   export default {
     name: 'DogsHolder',
     components: {
       ListItem,
+      DataFilter
     },
     data() {
       return {
         dogs: [],
+        temp: [],
       };
     },
     computed: {
       getDogs() {
         return this.dogs;
-      }
+      },
     },
     created() {
       this.getAllDogs();
     },
     methods: {
       getAllDogs() {
-        dogsService.getAllDogs().then((dogs) => {
+        dogsService.getAllDogs().then((dogs) => {          
           this.dogs = dogs.data;
-          console.log(dogs);
+          this.temp = [...dogs.data];
+          this.dogs.forEach(dog => {
+            dogsService.getDogImage().then(res => {
+              dog.picture = res.data.url;
+            });
+          });
         });
       },
+      onSearch(input) {
+        const filtered = this.temp.filter((dogs) => {
+        return dogs.name.toLocaleLowerCase().indexOf(input) !== -1
+          || !input;
+        });
+
+        this.dogs = [...filtered];
+      }
     },
   };
 </script>

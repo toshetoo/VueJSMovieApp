@@ -3,10 +3,10 @@ import constants from './constants';
 
 export default {
   getAllCats() {
-    return apiService.get(constants.baseUrl + '/cats');
+    return apiService.get(`${constants.baseUrl}/cats`);
   },
 
   getCatById(id) {
-    return apiService.get(constants.baseUrl + '/vats/' + id);
-  }
-}
+    return apiService.get(`${constants.baseUrl}/cats/${id}`);
+  },
+};

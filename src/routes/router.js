@@ -5,6 +5,7 @@ import Home from '../components/Home/Home';
 import Navigation from '../components/shared/Navigation';
 import DogsHolder from '../components/Dogs/DogsHolder';
 import CatsHolder from '../components/Cats/CatsHolder';
+import BirdsHolder from '../components/Birds/BirdsHolder';
 
 
 Vue.use(Router);
@@ -39,6 +40,14 @@ export default new Router({
       components: {
         navigation: Navigation,
         default: CatsHolder,
+      },
+    },
+    {
+      path: '/Birds',
+      name: 'Birds',
+      components: {
+        navigation: Navigation,
+        default: BirdsHolder,
       },
     },
   ],
