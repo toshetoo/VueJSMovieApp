@@ -43,10 +43,16 @@
     },
     methods: {
       getAllBirds() {
-        birdsService.getAllBirds().then((birds) => {
-          this.birds = birds.data;
-          this.temp = [...birds.data];
-          console.log(birds);
+        // birdsService.getAllBirds().then((birds) => {
+        //   this.birds = birds.data;
+        //   this.temp = [...birds.data];
+        //   console.log(birds);
+        // });
+
+        birdsService.getAllBirdsGraphQl((birds) => {
+            this.birds = birds;
+            this.temp = [...birds];
+            console.log(birds);
         });
       },
       onSearch(input) {

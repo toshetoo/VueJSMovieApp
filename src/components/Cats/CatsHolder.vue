@@ -43,11 +43,17 @@
     },
     methods: {
       getAllCats() {
-        catsService.getAllCats().then((cats) => {
-          this.cats = cats.data;
-          this.temp = [...cats.data];
-          console.log(cats);
-        });
+        // catsService.getAllCats().then((cats) => {
+        //   this.cats = cats.data;
+        //   this.temp = [...cats.data];
+        //   console.log(cats);
+        // });
+
+        catsService.getAllCatsGraphQl((cats) => {
+            this.cats = cats;
+            this.temp = [...cats];
+            console.log(cats);
+        })
       },
       onSearch(input) {
         const filtered = this.temp.filter((cats) => {

@@ -43,9 +43,19 @@
     },
     methods: {
       getAllDogs() {
-        dogsService.getAllDogs().then((dogs) => {          
-          this.dogs = dogs.data;
-          this.temp = [...dogs.data];
+        // dogsService.getAllDogs().then((dogs) => {          
+        //   this.dogs = dogs.data;
+        //   this.temp = [...dogs.data];
+        //   this.dogs.forEach(dog => {
+        //     dogsService.getDogImage().then(res => {
+        //       dog.picture = res.data.url;
+        //     });
+        //   });
+        // });
+
+        dogsService.getAllDogsGraphQl((dogs) => {          
+          this.dogs = dogs;
+          this.temp = [...dogs];
           this.dogs.forEach(dog => {
             dogsService.getDogImage().then(res => {
               dog.picture = res.data.url;
