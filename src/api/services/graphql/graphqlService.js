@@ -33,7 +33,7 @@ export default {
                     }    
                 }`,
             variables,
-        }).then(() => {
+        }).then((response) => {
             success(response);
         }).catch(failure);
     },
@@ -50,7 +50,7 @@ export default {
             variables: {
                 _id
             }
-        }).then(() => {
+        }).then((response) => {
             success(response);
         }).catch(failure);
     },
@@ -68,7 +68,7 @@ export default {
                 }    
             }`,
             variables
-        }).then(() => {
+        }).then((response) => {
             success(response);
         }).catch(failure);
     },

@@ -2,8 +2,8 @@
   <div class="container">
     <DataFilter @input="onSearch"></DataFilter>
     <ListItem v-for="(dog) in getDogs"
-      :key="dog.guid"
-      :guid="dog.guid"
+      :key="dog._id"
+      :guid="dog._id"
       :isSold="dog.isSold"
       :picture="dog.picture"
       :age="dog.age"
@@ -11,6 +11,8 @@
       :name="dog.name"
       :gender="dog.gender"
       :about="dog.about"
+      :type="'dog'"
+      :onDelete="onDeleted"
     >
     </ListItem>
   </div>
@@ -70,6 +72,12 @@
         });
 
         this.dogs = [...filtered];
+      },
+      onDeleted(id) {
+        const index = this.cats.findIndex(cat => cat._id === id);
+        this.cats.splice(index, 1);
+        this.cats = cats;
+        this.temp = [...cats];
       }
     },
   };

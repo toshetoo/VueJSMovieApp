@@ -2,8 +2,8 @@
   <div class="container">
     <DataFilter @input="onSearch"></DataFilter>
     <ListItem v-for="(bird) in getBirds"
-      :key="bird.guid"
-      :guid="bird.guid"
+      :key="bird._id"
+      :guid="bird._id"
       :isSold="bird.isSold"
       :picture="bird.picture"
       :age="bird.age"
@@ -11,6 +11,8 @@
       :name="bird.name"
       :gender="bird.gender"
       :about="bird.about"
+      :type="'bird'"
+      :onDelete="onDeleted"
     >
     </ListItem>
   </div>
@@ -62,6 +64,12 @@
         });
 
         this.birds = [...filtered];
+      },
+      onDeleted(id) {
+        const index = this.cats.findIndex(cat => cat._id === id);
+        this.cats.splice(index, 1);
+        this.cats = cats;
+        this.temp = [...cats];
       }
     },
   };
